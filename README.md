@@ -16,12 +16,11 @@
 > Mit freundlichen Grüßen,
 > Stefan Ouma und Gabriele Schrüfer
 
+----
+
 ### My attempts to answer the questions
 1. 
-2. "task_2.py"
-it uses the following modules
-```python
-requests, pandas, matplotlib, BeautifulSoup, Nominatim
-```
+2. **"task_2.py"**.
+it uses the following modules `requests, pandas, matplotlib, BeautifulSoup, Nominatim`
 3. 
 4. 
