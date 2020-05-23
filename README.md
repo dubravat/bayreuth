@@ -25,7 +25,7 @@
      - Wikipedia Article "Liste der Großstädte in Deutschland", URL: https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland*Used Software:* Python3 (requests, beautifulsoup, pandas, geopy, matplotlib,), Notepad++
    
    *Used Software:*
-     - Python3 (requests, beautifulsoup, pandas)
+     - Python3 (requests, beautifulsoup, pandas, geopy, matplotlib)
 	 - Notepad++
 3. **"task_3.py"**</br>
    *Used Data:*
