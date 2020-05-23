@@ -37,6 +37,6 @@
    *Used Software:*
      - Python3 (requests, beautifulsoup, pandas)
 	 - Notepad++
-	 - QGIS 3.10
+	 - QGIS 3.10 LTR
 
 4. 
