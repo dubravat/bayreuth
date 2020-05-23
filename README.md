@@ -23,7 +23,7 @@
 
 2. **Task 2.**</br>
    *Used Data:*
-     - Wikipedia Article "Liste der Großstädte in Deutschland", URL: https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland
+     - Wikipedia Article "Liste der Großstädte in Deutschland",</br>URL: https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland
 
    *Used Software:*
      - Python3 (requests, beautifulsoup, pandas, geopy, matplotlib)
@@ -32,7 +32,7 @@
 3. **Task 3.**</br>
    *Used Data:*
      - Natural Earth 1:110m Cultural Vectors, URL: https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/110m_cultural.zip
-     - Wikipedia Article "List of deadly earthquakes since 1900", URL: https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900
+     - Wikipedia Article "List of deadly earthquakes since 1900",</br>URL: https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900
 
    *Used Software:*
      - Python3 (requests, beautifulsoup, pandas)
