@@ -22,8 +22,8 @@
 1. 
 2. **"task_2.py"**</br>
    *Used Data:*
-     - Wikipedia Article "Liste der Großstädte in Deutschland", URL: https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland*Used Software:* Python3 (requests, beautifulsoup, pandas, geopy, matplotlib,), Notepad++
-   
+     - Wikipedia Article "Liste der Großstädte in Deutschland", URL: https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland*Used
+
    *Used Software:*
      - Python3 (requests, beautifulsoup, pandas, geopy, matplotlib)
 	 - Notepad++
