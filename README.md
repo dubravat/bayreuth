@@ -26,6 +26,7 @@
 3. **"task_3.py"**</br>
    *Used Data:*
      - Natural Earth 1:110m Cultural Vectors, URL: https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/110m_cultural.zip
-     - Wikipedia Article "List of deadly earthquakes since 1900", URL: https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900</br>
+     - Wikipedia Article "List of deadly earthquakes since 1900", URL: https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900
+
    *Used Software:* Python3 (requests, beautifulsoup, pandas), Notepad++, QGIS 3.10
 4. 
