@@ -27,6 +27,7 @@
 
    *Used Software:*
      - Python3 (requests, beautifulsoup, pandas, geopy, matplotlib)
+	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
 	 
 3. **Task 3.**</br>
@@ -36,6 +37,7 @@
 
    *Used Software:*
      - Python3 (requests, beautifulsoup, pandas)
+	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
 	 - QGIS 3.10 LTR
 

@@ -48,7 +48,7 @@ df['Bundesland'] = df['Bundesland'].apply(lambda x: ''.join(set(x.split(' '))))
 
 df['Name'] = df['Name'].str.replace(r'[\u00AD\d,-]+', '').str.strip()
 
-# geocoding addresses with Nominatim
+# geocoding addresses with Nominatim geocoder
 geolocator = Nominatim(user_agent='my-application', timeout=1)
 
 def geocoding(add):
@@ -65,7 +65,7 @@ df['lon'] = df['Name'].apply(lambda x: geocoding(x)[1])
 df['Bev2018'] = df['Bev2018'].str.replace('.', '').apply(pd.to_numeric)
 
 # visualization of data
-df[df['Bev2018'] > 500000].plot(kind="scatter", x="lon", y="lat", s=df['Bev2018']/100000, color='DarkBlue', marker="o", alpha=0.6)
-plt.title('Germany cities with population > 500.000')
+df[df['Bev2018'] > 100000].plot(kind="scatter", x="lon", y="lat", s=df['Bev2018']/100000, color='DarkBlue', marker="o", alpha=0.6)
+plt.title('Germany cities with population > 100.000')
 plt.axis('off')
 plt.show()
