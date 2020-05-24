@@ -19,9 +19,9 @@
 ----
 
 ### My attempts to answer the questions
-1. 
+1. Flourish https://flourish.studio/ </br>
 
-2. **Task 2.**</br>
+2. Simple web scraping of a page (related to geography) and its visualization.</br>
    *Used Data:*
      - Wikipedia Article "Liste der Großstädte in Deutschland",</br>https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland
 
@@ -29,16 +29,21 @@
      - Python3 (requests, beautifulsoup, pandas, geopy, matplotlib)
 	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
-	 
-3. **Task 3.**</br>
+   
+   *Output:* "scatter_plot.PNG"
+   
+3. Import data from Wikipedia article into an appropriate package of your choice. Create a map that shows the location and magnitude of the earthquakes.</br>
    *Used Data:*
      - Natural Earth 1:110m Cultural Vectors,</br>https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/110m_cultural.zip
      - Wikipedia Article "List of deadly earthquakes since 1900",</br>https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900
+	 - Earthquake Magnitude Classes: http://www.geo.mtu.edu/UPSeis/magnitude.html
 
    *Used Software:*
      - Python3 (requests, beautifulsoup, pandas)
 	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
 	 - QGIS 3.10 LTR
+   
+   *Output:* "map.PNG"
 
-4. 
+4. Check the web page http://www.reflectories.de and outline ideas on how technically this content could be developed.</br>
