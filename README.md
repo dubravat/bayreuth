@@ -24,7 +24,7 @@
    *Info:* The students have previous statistical knowledge and knowledge of cartography, but no knowledge of programming languages).</br>
    *Pros:* | *Cons:*
    ------- | -------
-   allows to upload spreadsheets or paste from Excel which can be turned into charts, maps and interactive stories | no provided data libraries
+   allows to upload spreadsheets or paste from Excel which</br>can be turned into charts, maps and interactive stories | no provided data libraries
    
    
    *Pros:*
