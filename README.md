@@ -22,6 +22,11 @@
 ### Attempts to answer the questions
 1. Take a look at Flourish's page. https://flourish.studio/ How do you rate the tool for use in teaching in a B.Sc. course Data Science for Human Geographers?</br>
    *Info:* The students have previous statistical knowledge and knowledge of cartography, but no knowledge of programming languages).</br>
+   *Pros:* | *Cons:*
+   ------- | -------
+   - allows to upload spreadsheets or paste from Excel which can be turned into charts, maps and interactive stories | - no provided data libraries
+   
+   
    *Pros:*
      - allows to upload spreadsheets or paste from Excel which can be turned into charts, maps and interactive stories
 	 - extremely straightforward with no coding required
