@@ -32,6 +32,7 @@
 	 - supports oEmbed and API (R, Tableau, Jupyter or Observable notebooks) for integration
 	 - sufficient cartographic techniques
 	 - in partnership with Google News Lab
+   
    *Cons:*
 	 - no provided data libraries
 	 - no GIF exports of animated graphics for sharing (depends on a license)
@@ -39,7 +40,12 @@
 	 - has limited geographic files (possible to upload your data to visualize)
 	 - modest geodata import options (only GeoJSON)
 	 - requires stable Internet connection
- 	 
+ 	
+	*Output:* Yes, I will suggest applying this tool for use in teaching in a bachelor course Data Science for Human Geographer. Because:
+	 - does not require knowledge of codding (at the same it is flexible where the task can be done programmatically)
+	 - acceptable pricing plans (Free for educational and evaluation use, discounts for non-profit and educational organizations)
+	 - statistical knowledge is prevailing for using this tool more than cartographic or programming
+	
 2. Simple web scraping of a page (related to geography) and its visualization.</br>
    *Used Data:*
      - Wikipedia Article "Liste der Großstädte in Deutschland",</br>https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland
