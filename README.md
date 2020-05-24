@@ -30,7 +30,7 @@
 	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
    
-   *Output:* "scatter_plot.PNG"
+   *Output:* [scatter_plot.PNG](https://imgur.com/a/WC15HNv)
    
 3. Import data from Wikipedia article into an appropriate package of your choice. Create a map that shows the location and magnitude of the earthquakes.</br>
    *Used Data:*
@@ -44,6 +44,6 @@
 	 - Notepad++
 	 - QGIS 3.10 LTR
    
-   *Output:* "map.PNG"
+   *Output:* [map.PNG](https://imgur.com/a/lTmBBo5)
 
 4. Check the web page http://www.reflectories.de and outline ideas on how technically this content could be developed.</br>
