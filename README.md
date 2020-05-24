@@ -28,7 +28,7 @@
 	 - has a very flexible template library
 	 - visualization can be embed into your own web site or downloaded as RAW files
 	 - fully responsive and mobile-friendly
-	 - profound documnetation 
+	 - profound documentation, tutorials and help materials
 	 - supports oEmbed and API (R, Tableau, Jupyter or Observable notebooks) for integration
 	 - sufficient cartographic techniques
 	 - in partnership with Google News Lab
@@ -38,7 +38,7 @@
 	 - no option to create videos from the visualization
 	 - has limited geographic files (possible to upload your data to visualize)
 	 - modest geodata import options (only GeoJSON)
-	 - requires stable internet connection
+	 - requires stable Internet connection
  	 
 2. Simple web scraping of a page (related to geography) and its visualization.</br>
    *Used Data:*
