@@ -45,6 +45,7 @@
 	 - does not require knowledge of codding (at the same it is flexible where the task can be done programmatically)
 	 - acceptable pricing plans (Free for educational and evaluation use, discounts for non-profit and educational organizations)
 	 - statistical knowledge is prevailing for using this tool more than cartographic or programming
+	 - remarkable focus on data acquisition and data research
 	
 2. Simple web scraping of a page (related to geography) and its visualization.</br>
    *Used Data:*
