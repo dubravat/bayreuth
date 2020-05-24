@@ -22,7 +22,24 @@
 ### Attempts to answer the questions
 1. Take a look at Flourish's page. https://flourish.studio/ How do you rate the tool for use in teaching in a B.Sc. course Data Science for Human Geographers?</br>
    **Info:** The students have previous statistical knowledge and knowledge of cartography, but no knowledge of programming languages).</br>
-
+   *Pros:*
+     - allows to upload spreadsheets or paste from Excel which can be turned into charts, maps and interactive stories
+	 - extremely straightforward with no coding required
+	 - has a very flexible template library
+	 - visualization can be embed into your own web site or downloaded as RAW files
+	 - fully responsive and mobile-friendly
+	 - profound documnetation 
+	 - supports oEmbed and API (R, Tableau, Jupyter or Observable notebooks) for integration
+	 - sufficient cartographic techniques
+	 - in partnership with Google News Lab
+   *Cons:*
+	 - no provided data libraries
+	 - no GIF exports of animated graphics for sharing (depends on a license)
+	 - no option to create videos from the visualization
+	 - has limited geographic files (possible to upload your data to visualize)
+	 - modest geodata import options (only GeoJSON)
+	 - requires stable internet connection
+ 	 
 2. Simple web scraping of a page (related to geography) and its visualization.</br>
    *Used Data:*
      - Wikipedia Article "Liste der Großstädte in Deutschland",</br>https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland
