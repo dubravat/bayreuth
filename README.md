@@ -19,7 +19,8 @@
 ----
 
 ### My attempts to answer the questions
-1. Flourish https://flourish.studio/ </br>
+1. Take a look at Flourish's page. https://flourish.studio/ How do you rate the tool for use in teaching in a B.Sc. course Data Science for Human Geographers?</br>
+   Info: The students have previous statistical knowledge and knowledge of cartography, but no knowledge of programming languages).</br>
 
 2. Simple web scraping of a page (related to geography) and its visualization.</br>
    *Used Data:*
