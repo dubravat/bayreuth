@@ -80,3 +80,6 @@
 	 - mobile/tablet versions
 	 - embed more media, i.e. graphics, animations, videos etc.
 	 - tutorial on how reflectories work, video tutorial
+	 
+Best Regards,
+Taras Dubrava
