@@ -74,3 +74,9 @@
    *Output:* [map.PNG](https://imgur.com/a/lTmBBo5)
 
 4. Check the web page http://www.reflectories.de and outline ideas on how technically this content could be developed.</br>
+   
+   Reflectories for recognising interrelations, networked thinking, including different perspectives for decision-making and acting in the interests of sustainability.</br>
+   *Ideas:*
+	 - mobile/tablet versions
+	 - embed more media, i.e. graphics, animations, videos etc.
+	 - tutorial on how reflectories work, video tutorial
