@@ -13,7 +13,7 @@ id;Origin (UTC);Present-day country and link to Wikipedia article;Lat;Long;Depth
 11;1902-07-03 15:36;China;43.200;129.600;20;6.7 Ms;;;;;;
 12;1902-08-22 03:00;China;40.000;77.000;0;7.7 Mw;;;;5650;;
 13;1902-09-19;Australia;-35.000;138.000;2;6.0 ML;;;;2;;
-14;1902-12-16 05:07;Uzbekistan;40.800;72.300;9;6.4 Muk;;;;4725;;
+14;1902-12-16 05:07;Uzbekistan (see 1902 Andijan earthquake);40.800;72.300;9;6.4 Muk;;;;4725;;
 15;1903-03-29 22:30;Palestine;32.200;35.300;;5.7 Muk;;;;20;;
 16;1903-04-28;Turkey (see 1903 Manzikert earthquake);39.14;42.65;;7.0 Ms;;;;;;3500
 17;1903-05-28 03:58;Turkey;40.900;42.700;;5.8 Muk;;;;1000;;
@@ -23,7 +23,7 @@ id;Origin (UTC);Present-day country and link to Wikipedia article;Lat;Long;Depth
 21;1904-08-11 05:56;Greece;37.750;27.000;10;6.2 Muk;;;;4;;
 22;1904-08-30 11:42;China;30.000;101.000;0;6.8 Ms;;;;565;;
 23;1904-11-05 20:25;Taiwan (see 1904 Douliu earthquake);23.500;120.300;;6.3 Muk;;;;145;;
-24;1905-04-04 00:50;India;33.000;76.000;0;7.8 Mw;;;;20000;20000;
+24;1905-04-04 00:50;India (see 1905 Kangra earthquake);33.000;76.000;0;7.8 Mw;;;;20000;20000;
 25;1905-06-01 04:42;Albania;42.100;19.600;20;6.6 Muk;;;;120;;
 26;1905-06-02 05:39;Japan;34.100;132.500;55;7.0 mb;;;;11;;
 27;1905-09-08 01:43;Italy (see 1905 Calabria earthquake);39.000;16.000;0;6.8 Ms;T;;;557;2500;
@@ -86,7 +86,7 @@ id;Origin (UTC);Present-day country and link to Wikipedia article;Lat;Long;Depth
 84;1916-08-28 07:27;Taiwan (see 1916–17 Nantou earthquakes);23.900;120.500;5;7.2 MJMA;;;;16;;
 85;1916-11-14 22:31;Taiwan (see 1916–17 Nantou earthquakes);24.000;121.000;;6.0 Muk;;;;1;;
 86;1917-01-04 16:55;Taiwan (see 1916–17 Nantou earthquakes;21.900;120.900;0;6.5 Ms;;;;54;;
-87;1917-01-21 23:11;Indonesia;-7.000;116.000;;6.6 Muk;T;;;15000;;
+87;1917-01-21 23:11;Indonesia (see 1917 Bali earthquake);-7.000;116.000;;6.6 Muk;T;;;15000;;
 88;1917-01-24 00:48;China;31.000;114.000;0;6.5 Ms;;;;;;
 89;1917-01-31 03:39;Philippines;6.000;125.000;;6.4 Muk;;;;7;;
 90;1917-07-30 23:54;China;29.000;104.000;0;7.3 Mw;;;;1879;1800;
@@ -126,7 +126,7 @@ id;Origin (UTC);Present-day country and link to Wikipedia article;Lat;Long;Depth
 124;1924-07-03 04:40;China;36.632;83.903;35;7.1 Mw;;;;255;;
 125;1924-07-12 15:12;Kyrgyzstan;40.565;73.397;25;6.8 Muk;;;;41;;
 126;1924-09-13 14:34;Turkey (see 1924 Pasinler earthquake);39.864;41.876;35;6.8 Muk;;;;30;;
-127;1925-03-16 14:42;China;25.688;100.494;25;7.0 Ms;;;;5808;5000;
+127;1925-03-16 14:42;China (see 1925 Dali earthquake);25.688;100.494;25;7.0 Ms;;;;5808;5000;
 128;1925-05-23 02:09;Japan;35.600;134.800;5;6.8 Muk;F;;;428;;
 129;1925-06-29 14:42;United States;34.500;-119.600;;6.2 Muk;;;;13;;
 130;1925-12-14 00:00;Iran;34.600;58.100;;5.5 Muk;;;;500;;
@@ -344,7 +344,7 @@ id;Origin (UTC);Present-day country and link to Wikipedia article;Lat;Long;Depth
 342;1954-04-30 13:02;Greece;39.187;22.239;25;6.8 Ms;;;;31;;
 343;1954-07-02 02:45;Philippines;13.000;123.900;0;6.8 Ms;;;;22;13;
 344;1954-08-20 15:30;Iran;27.500;52.000;;5.0 Muk;;;;1;;
-345;1954-09-09 01:04;Algeria;36.200;1.600;0;6.7 Ms;;;;1409;1250;
+345;1954-09-09 01:04;Algeria (see 1954 Chlef earthquake);36.200;1.600;0;6.7 Ms;;;;1409;1250;
 346;1955-03-31 18:17;Philippines;7.386;122.878;54.2;7.7 Mw;;;;465;400;
 347;1955-04-14 01:29;China;29.981;101.613;10;7.5 Mw;;;;94;39;
 348;1955-04-15 03:40;China;39.816;74.640;35;7.1 Mw;;;;5;;
@@ -809,7 +809,7 @@ id;Origin (UTC);Present-day country and link to Wikipedia article;Lat;Long;Depth
 807;1987-08-02 09:07;China;25.002;115.566;11.2;4.9 mb;;0;0;3;0;
 808;1987-08-08 15:48;Chile;-19.092;-70.005;70.7;7.2 Mw;L;5;5;5;5;
 809;1987-08-13 15:23;Peru;-17.900;-70.909;37.6;6.5 Mw;;1;1;1;;
-810;1987-09-22 13:43;Ecuador;-1.009;-78.031;4.8;6.3 Mw;L;2;2;2;2;
+810;1987-09-22 13:43;Ecuador (see 1987 Ecuador earthquakes);-1.009;-78.031;4.8;6.3 Mw;L;2;2;2;2;
 811;1987-10-01 14:42;United States (see 1987 Whittier Narrows earthquake);34.061;-118.135;14.4;5.9 Mw;;8;8;8;8;
 812;1987-10-02 22:27;Peru (see 1987 Santiago de Chuco earthquake);-8.166;-77.961;29.8;5.6 Mw;;3;3;3;;
 813;1987-10-04 10:59;United States (see 1987 Whittier Narrows earthquake);34.020;-118.137;11.3;5.2 Mw;;0;1;;;
