@@ -1,5 +1,4 @@
-# Universität Bayreuth
-## Job Application as "Mitarbeiter Geo Data und Medien / Data Analyst Geographie" at the University Bayreuth
+# Job Application as "Mitarbeiter Geo Data und Medien / Data Analyst Geographie" at the University Bayreuth
 ## (C) Taras Dubrava
 
 ### Initial email
@@ -53,7 +52,7 @@
      - Wikipedia Article "Liste der Großstädte in Deutschland",</br>https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland
 
    *Used Software:*
-     - Python3 (requests, beautifulsoup, pandas, geopy, matplotlib)
+     - Python 3 (requests, beautifulsoup, pandas, geopy, matplotlib)
 	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
    
@@ -66,7 +65,7 @@
 	 - Earthquake Magnitude Classes: http://www.geo.mtu.edu/UPSeis/magnitude.html
 
    *Used Software:*
-     - Python3 (requests, beautifulsoup, pandas)
+     - Python 3 (requests, beautifulsoup, pandas)
 	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
 	 - QGIS 3.10 LTR
@@ -81,5 +80,5 @@
 	 - embed more media, i.e. graphics, animations, videos etc.
 	 - tutorial on how reflectories work, video tutorial
 	 
-Best Regards,
+Best Regards,<br>
 Taras Dubrava
