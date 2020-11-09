@@ -1,5 +1,5 @@
 # Universität Bayreuth
-## Job Application as "Mitarbeiter Geo Data und Medien / Data Analyst Geographie"
+## Job Application as "Mitarbeiter Geo Data und Medien / Data Analyst Geographie" at the University Bayreuth
 ## (C) Taras Dubrava
 
 ### Initial email
@@ -14,7 +14,7 @@
 > 
 > Wir freuen uns auf Ihre Ideen im Gespräch.
 > 
-> Mit freundlichen Grüßen,
+> Mit freundlichen Grüßen,<br>
 > Stefan Ouma und Gabriele Schrüfer
 
 ----
