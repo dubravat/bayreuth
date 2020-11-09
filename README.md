@@ -1,6 +1,6 @@
 # Universität Bayreuth
-## Job Application "Mitarbeiter Geo Data und Medien / Data Analyst Geographie"
-## Taras Dubrava
+## Job Application as "Mitarbeiter Geo Data und Medien / Data Analyst Geographie"
+## (C) Taras Dubrava
 
 ### Initial email
 > Sehr geehrter Herr Dubrava,
