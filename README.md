@@ -13,7 +13,7 @@
 > 
 > Wir freuen uns auf Ihre Ideen im Gespräch.
 > 
-> Mit freundlichen Grüßen,<br>
+> Mit freundlichen Grüßen,</br>
 > Stefan Ouma und Gabriele Schrüfer
 
 ----
@@ -80,5 +80,5 @@
 	 - embed more media, i.e. graphics, animations, videos etc.
 	 - tutorial on how reflectories work, video tutorial
 	 
-Best Regards,<br>
+Best Regards,</br>
 Taras Dubrava
