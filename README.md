@@ -1,5 +1,7 @@
 # Job Application as "Mitarbeiter Geo Data und Medien / Data Analyst Geographie" at the University Bayreuth
+
 ## (C) Taras Dubrava
+
 ### May 2020
 
 ### Initial email
