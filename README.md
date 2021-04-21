@@ -53,13 +53,14 @@
 2. Simple web scraping of a page (related to geography) and its visualization.</br>
    *Used Data:*
      - Wikipedia Article "Liste der Großstädte in Deutschland",</br>https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland
+	 - GeoPandas Dataset 'naturalearth_lowres'
 
    *Used Software:*
-     - Python 3 (requests, beautifulsoup, pandas, geopy, matplotlib)
+     - Python 3 (requests, beautifulsoup, pandas, geopandas, geopy, matplotlib)
 	 - PyCharm 2019.2.3 (Community Edition)
 	 - Notepad++
    
-   *Output:* [scatter_plot.PNG](https://imgur.com/a/WC15HNv)
+   *Output:* [scatter_plot.PNG](https://imgur.com/a/NJQ8X3S)
    
 3. Import data from Wikipedia article into an appropriate package of your choice. Create a map that shows the location and magnitude of the earthquakes.</br>
    *Used Data:*

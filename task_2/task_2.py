@@ -1,5 +1,5 @@
 """
-Wikipedia's Table into pandas's dataframe and some visualization
+Wikipedia's Table into pandas's dataframe + geopandas's geodataframe and some visualization
 Taras Dubrava
 18.05.2020
 """
@@ -7,6 +7,7 @@ Taras Dubrava
 # imports
 import requests
 import pandas as pd
+import geopandas as gpd
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
@@ -49,7 +50,7 @@ df['Bundesland'] = df['Bundesland'].apply(lambda x: ''.join(set(x.split(' '))))
 df['Name'] = df['Name'].str.replace(r'[\u00AD\d,-]+', '').str.strip()
 
 # geocoding addresses with Nominatim geocoder
-geolocator = Nominatim(user_agent='my-application', timeout=1)
+geolocator = Nominatim(user_agent='my-app', timeout=1)
 
 def geocoding(add):
     try:
@@ -64,8 +65,44 @@ df['lon'] = df['Name'].apply(lambda x: geocoding(x)[1])
 
 df['Bev2018'] = df['Bev2018'].str.replace('.', '').apply(pd.to_numeric)
 
-# visualization of data
-df[df['Bev2018'] > 100000].plot(kind="scatter", x="lon", y="lat", s=df['Bev2018']/100000, color='DarkBlue', marker="o", alpha=0.6)
-plt.title('Germany cities with population > 100.000')
+# Exporting dataframe as a csv file (when needed)
+# df.to_csv(r'D:\bayreuth\task_2\task_2_temporal.csv', index=False)
+# Reading a csv file as dataframe (when needed)
+# df = pd.read_csv('task_2_temporal.csv')
+
+# converting pandas's DataFrame into geopandas's GeoDataFrame
+gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lon, df.lat), crs="EPSG:4326")
+# getting a dataset from geopandas
+world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+
+# plotting germany
+ax = world[world.name == 'Germany'].plot(
+    color='white',
+    edgecolor='black',
+    alpha=0.4)
+
+# plotting data
+gdf[gdf['Bev2018'] > 100000].plot(ax=ax,
+                                  markersize=gdf['Bev2018']/100000,
+                                  color='DarkBlue',
+                                  marker="o",
+                                  alpha=0.6,
+                                  legend=True
+                                  )
+
+# labelling
+gdf = gdf.nlargest(5, ['Bev2018'])
+texts = []
+for x, y, label in zip(gdf.geometry.x, gdf.geometry.y, gdf["Name"]):
+    texts.append(plt.text(x,
+                          y,
+                          label,
+                          fontsize = 6,
+                          fontfamily='sans-serif',
+                          fontstyle='normal',
+                          horizontalalignment='left',
+                          verticalalignment='bottom'))
+
+plt.title('German cities with population > 100.000')
 plt.axis('off')
 plt.show()
